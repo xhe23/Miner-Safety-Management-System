@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">MSMS</string>
+    <string name="button_home">HOME</string>
+    <string name="button_report">REPORTS</string>
+    <string name="button_data_explore">DATA EXPLORE</string>
+    <string name="button_safety_monitor">SAFETY MONITOR</string>
+    <string name="button_incident_report">HELP</string>
+    <string name="button_help">HELP</string>
+    <string name="button_pulse">PULSE</string>
+    <string name="button_gas">GAS</string>
+    <string name="button_geo">GEO</string>
+    <string name="button_equipment">Equipment</string>
+    <string name="title_activity_map">MapActivity</string>
+
+    <string name="google_api_key">AIzaSyBMbbekbhFAGHABX10Vr_hkjj5U8FVHylc</string>
+    <string name="clarifai_api_key">af378b51c37343eb9e4c726978628ca9</string>
+
+    <string name="error_while_contacting_api">Error while contacting Clarifai API</string>
+    <string name="no_results_from_api">API did not return any results</string>
+    <string name="username">admin</string>
+    <string name="password">admin</string>
+    <string name="user_manual">
+        <item>  1. Press Map button to view map.\n</item>
+        <item>\n</item>
+        <item>2. Press Map button while in map view to go back to camera.\n</item>
+        <item>\n</item>
+        <item>3. Press reports button to file a report.\n</item>
+        <item>\n</item>
+        <item>4. Press the middle button to take a photo and get analysis about the location.\n</item>
+        <item>\n</item>
+        <item>5. Press the Gas button to mark the current location on the map.\n</item>
+        <item>\n</item>
+        <item>6. Press the Data Explore button to get danger level statistics.\n</item>
+        <item>\n</item>
+        <item>7. Press the Equipment button to get statistics about the equipment.\n</item>
+        <item>\n</item>
+    </string>
+</resources>

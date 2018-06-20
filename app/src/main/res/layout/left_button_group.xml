@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fbutton="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="3"
+    android:background="@color/colorMainBackground">
+
+    <!--<info.hoang8f.widget.FButton-->
+
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="0dp"-->
+        <!--android:backgroundTint="@color/fbutton_color_concrete"-->
+        <!--fbutton:shadowColor="@color/fbutton_color_asbestos"-->
+        <!--fbutton:shadowEnabled="true"-->
+        <!--fbutton:shadowHeight="2dp"-->
+        <!--fbutton:cornerRadius="5dp"-->
+        <!--android:layout_weight="1"-->
+        <!--android:textSize="12sp"-->
+        <!--android:layout_margin="5dp"-->
+        <!--android:text="@string/button_home"/>-->
+
+    <include layout="@layout/analyze_icon_layout" />
+    <include layout="@layout/data_explore_layout" />
+    <include layout="@layout/incident_report_layout" />
+
+
+</LinearLayout>
